@@ -1,5 +1,15 @@
 package gr.aueb.cf.ch7;
 
+/*
+* Συγκρίνει τη συνένωση αλφαριθμητικών μεταξύ
+* String και StringBuilder
+*
+* @author fotisPag
+*
+* */
+
+
+
 public class StringBuilderDemo {
     public static void main(String[] args) {
         String Builder sb = new StringBuilder();
