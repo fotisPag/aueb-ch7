@@ -11,6 +11,6 @@ public class StringSearch {
 
         //Αναζητώ για τον χαρακτήρα Α
         System.out.printf("Ο χαρακτήρας A %s περιέχεται στο αλφαριθμητικό %s\n", (s.contains("Α")) ? "" : "δεν", s);
-        System.out.printf("s", (s.contains("A")) ? (String.format("Θέση: %d", s.indexOf('A') + 1)) : "");
+        System.out.printf("%s", (s.contains("A")) ? (String.format("Θέση: %d", s.indexOf('A') + 1)) : "");
     }
 }
