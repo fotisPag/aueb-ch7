@@ -4,6 +4,8 @@ package gr.aueb.cf.ch7;
 * Διασπά το String σε επιμέρους substrings(tokens) και επιστρέφει ένα
 * πίνακα των επιμερούς tokems
 *
+* Αναλύει με το parse και διαχωρίζει με το split
+*
 * */
 
 
